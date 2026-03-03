@@ -1,1 +1,2 @@
 "These are Git practice notes." 
+"Bug fixed in documentation." 
